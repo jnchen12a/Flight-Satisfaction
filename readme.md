@@ -1,5 +1,5 @@
 # Flight Satisfaction
-Pytorch model to predict customer satisfaction based on survey results.
+Pytorch model to predict customer flight satisfaction based on survey results.
 
 ## Data
 Data was pulled from [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). Code expects test.csv and train.csv to be placed in the "data" directory.
